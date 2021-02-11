@@ -61,8 +61,6 @@ function findNeighbors(grid, y, x){
 
 module.exports = numIslands;
 
-
-console.log(numIslands(
-    [ ["1","1"]]));
+console.log(numIslands([["0"],["0"],["0"],["0"],["0"],["0"]]));
 
 module.exports = numIslands;
